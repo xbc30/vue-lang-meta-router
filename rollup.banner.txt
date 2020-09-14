@@ -1,0 +1,3 @@
+vue-cobra-router v<%= pkg.version %>
+(c) 2020 <%= pkg.author %>
+Released under the <%= pkg.license %> License.
